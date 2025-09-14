@@ -1,0 +1,21 @@
+﻿Patient name ,Patient ID,Age,Gender,Condition,First registered date,Initial score 
+A. Smith,839 472 1059,72,F,Low back pain,1/7/25,39
+B. Smith,740 985 2364,68,M,Low back pain,2/7/25,39
+E. Khan,601 492 7830,64,F,Low back pain,3/7/25,39
+D. Brown,982 041 6573,59,F,Low back pain,4/7/25,39
+F. Taylor,350 917 2841,77,F,Low back pain,5/7/25,38
+H. Lewis ,666 555 8888,70,M,Low back pain,6/7/25,42
+A. Patel ,582 193 0476,53,F,Low back pain,7/7/25,37
+T. Thomas ,677 890 2838,81,M,Knee osteoarthritis,8/7/25,33
+I. Ahmed ,475 634 9877,66,F,Knee osteoarthritis,9/7/25,34
+E.Elis,727 273 3333,62,M,Knee osteoarthritis,10/7/25,38
+J.Smith,777 656 8737,49,F,Knee osteoarthritis,11/7/25,36
+S.Johnson,645 738 1111,74,F,Knee osteoarthritis,12/7/25,33
+A.Adrian,663 467 4566,55,M,Hip pain,13/7/25,39
+O.Oliver,457 377 7777,69,F,Hip pain,14/7/25,40
+B.Clarke,744 475 8999,52,F,Hip pain,15/7/25,37
+C.Evans,868 494 9000,62,F,Hip pain,16/7/25,36
+K.Green,580 888 9393,67,F,Hip pain,17/7/25,34
+G.Halls,485 093 9384,72,M,Shoulder pain,18/7/25,38
+P.Edwards,444 999 0000,80,F,Shoulder pain,19/7/25,42
+K.Moon,880 444 3333,65,F,Shoulder pain,20/7/25,40
